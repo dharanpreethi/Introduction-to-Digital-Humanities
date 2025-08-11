@@ -13,8 +13,8 @@ Fill in the required details and create your account.
 
 Install the Hypothesis browser extension for Chrome, Firefox, or Edge from the [Hypothesis website](https://web.hypothes.is/start/)
 
-### Step 2: Join our group IntroudcutiontoDH
-[click this](https://hypothes.is/groups/7LZRoaqY/introductiontodh) to join our group
+### Step 2: Join our group IDH_2025
+[click this](https://hypothes.is/groups/6P7BP37A/idh-2025) to join our group
 
 ### Step 3: Annotate a Text
 
